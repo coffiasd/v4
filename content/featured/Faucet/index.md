@@ -1,7 +1,7 @@
 ---
 date: '1'
 cta: ''
-title: 'Nervos Net Faucet Service'
+title: 'Nervos Net Faucet Service.'
 cover: './demo.png'
 github: 'https://github.com/coffiasd/godwoken-faucet'
 external: 'https://nervos-godwoken-test-page.coiiasd88.repl.co/'
