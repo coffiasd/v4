@@ -12,3 +12,4 @@ url: ''
 - Nfts Mint && Nfts Gallery using solidity to write smart contract and then deploy by hardhat.Build front-end
   use next.js and bootstrap framework.
 - A faucet server based on nervos net blockchain.User can claim token every day until reach the limit number.
+- NFTs data visualization project about stolen NFTs marked by opensea and spam contracts marked by alchemy.
