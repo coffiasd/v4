@@ -5,7 +5,7 @@ module.exports = {
     title: 'Ayden Lee',
     description:
       ' I’m a software engineer with 10 years exp.I start my programming career with language php.In the last three i work with golang.In the last year i get in touch with web3.I learned react and solidity',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'http://portfolio.coffiasd.cn', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@coffiasse',
   },
@@ -20,11 +20,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'AydenLee',
+        short_name: 'AydenLee',
         start_url: '/',
-        background_color: config.colors.darkNavy,
-        theme_color: config.colors.navy,
+        background_color: config.colors.white,
+        theme_color: config.colors.white,
         display: 'minimal-ui',
         icon: 'src/images/logo.png',
       },
@@ -77,7 +77,7 @@ module.exports = {
               maxWidth: 700,
               linkImagesToOriginal: true,
               quality: 90,
-              tracedSVG: { color: config.colors.green },
+              tracedSVG: { color: config.colors.white },
             },
           },
           {
